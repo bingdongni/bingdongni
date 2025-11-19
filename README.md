@@ -67,29 +67,6 @@ Here are some ideas to get you started:
 <br />
 
 <div align="center">
-<pre align="left">
-<code class="language-python">
-class Me:
-    def __init__(self):
-        self.name = "Innovator"
-        self.passion = ["Code", "Product", "Future"]
-        self.energy = "High Voltage ⚡"
-
-    def daily_routine(self):
-        while True:
-            idea = brainstorm()
-            prototype = build(idea)
-            if is_awesome(prototype):
-                launch_startup(prototype)
-            else:
-                learn_and_iterate()
-</code>
-</pre>
-</div>
-
-<br />
-
-<div align="center">
   <h3>⚡ My Creative Toolkit</h3>
   <br/>
   <img src="https://skillicons.dev/icons?i=react,threejs,flutter,nodejs,python,rust,pytorch,figma,blender,unity,arduino,raspberrypi&perline=12" />
