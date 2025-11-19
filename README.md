@@ -2,13 +2,13 @@ Hi! I am bingdongni!
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **World Models** to enable autonomous agents to simulate, predict, 和 reason about physical reality.
-- 🌱 I’m currently exploring **AI4S (AI for Science)**, bridging **First Principles** (Math/Physics) with **Deep Learning** to decode nature.
-- 👯 I’m looking to collaborate on **Model Context Protocol (MCP)** implementations to build **universal connectors** between LLMs and data silos.
-- 🤔 I’m looking for help with optimizing **Context Indexing algorithms** for ultra-long horizon retrieval and memory retention.
-- 💬 Ask me about **JePA Architectures**, **Fluid/Bio Simulations**，或 **Server-Client Context** strategies.
-- 📫 How to reach me: Discuss **AGI Architecture** via [Twitter/X](https://twitter.com/) 或 **Industrial Solutions** via [Email](mailto:your@email.com)。
-- ⚡ Fun fact: **I treat the World as a dataset, and my brain is just a model with a limited Context Window.**
+- 🔭 I’m currently working on **World Models** 🌍 to enable autonomous agents to simulate, predict, 和 reason about **natural 🌲, social 🏙️, 和 mental 🧠 worlds**.
+- 🌱 I’m currently exploring **AI4S (AI for Science)** 🧬, bridging **First Principles** ⚛️ (Math/Physics) with **Deep Learning** to decode nature.
+- 👯 I’m looking to collaborate on **Model Context Protocol (MCP)** 🔌 implementations to build **universal connectors** 🔗 between LLMs 🤖 and data silos.
+- 🤔 I’m looking for help with optimizing **Context Indexing algorithms** 🗂️ for ultra-long horizon retrieval 🔍 and memory retention 💾.
+- 💬 Ask me about **JePA Architectures** 🏗️, **Fluid/Bio Simulations** 🌊, or **Server-Client Context** 🖥️ strategies.
+- 📫 How to reach me: Discuss **AGI Architecture** via [Twitter/X](https://twitter.com/) 🐦 or **Industrial Solutions** via [Email](mailto:your@email.com) ✉️.
+- ⚡ Fun fact: **I treat the World as a dataset 💾, and my brain is just a model 🧠 with a limited Context Window.**
 -->
 
 <div align="center">
